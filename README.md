@@ -1,12 +1,12 @@
-# _skriv her: navnet på prosjektet_
+# _skriv her: Lan påmelding_
 
 ## Om prosjektet
 
-**Tema:** _På melding til lan_
+**Tema:** På melding til lan
 
-**Hvem er sida for?** _En-esport_
+**Hvem er sida for?** En-esport
 
-**Hva kan brukeren gjøre på sida?** _Jeg er litt usikker på hva jeg vil at de skal kunne gjøre, men de skal kunne melde seg på, også kanskje se hvem andre som har meldt seg på_
+**Hva kan brukeren gjøre på sida?** Jeg er litt usikker på hva jeg vil at de skal kunne gjøre, men de skal kunne melde seg på, også kanskje se hvem andre som har meldt seg på
 
 ## Slik kjører du prosjektet
 
