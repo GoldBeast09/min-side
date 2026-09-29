@@ -28,6 +28,11 @@ app.use(express.static('public')); // serverer index.html, app.js og resten av p
 // Oppgave 6: GET /api/<tabellen din> – alle radene
 // ---------------------------------------------------------------
 
+app.get('/api/Brukere', (req, res) => {
+  const rows = db.prepare('SELECT * FROM Brukere').all();
+  res.json(rows);
+});
+
 // ---------------------------------------------------------------
 // Oppgave 13: POST /api/<tabellen din> – legg til én rad
 // ---------------------------------------------------------------
